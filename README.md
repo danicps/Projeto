@@ -27,4 +27,28 @@ Para executar este sistema, você precisará:
 
 Siga os passos para baixar, importar e executar o projeto:
 
+  1. Clone o repositório: https://github.com/danicps/Projeto.git
+ 
+  2. Abra o Eclipse IDE.
+
+  3. Importe o projeto:
+
+  . File > Import.
+  . Selecione Existing Projects into Workspace e clique em Next.
+  . Vá até o diretório onde você clonou o repositório e clique em Finish.
+
+
+  4. Compile e execute o Projeto:
+
+     - Na classe  'SistemaEmpregados' execute como uma aplicação Java.
+    
+
+ ## Estrutura do Projeto 
+
+- SistemaEmpregados.java : Main para execução do programa.
+- 'ProjetoPOO/src/cartõesFuncionarios/': Pasta com arquivos Java. 
+
+    
+
+       
 
