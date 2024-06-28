@@ -36,6 +36,7 @@ Siga os passos para baixar, importar e executar o projeto:
 
   . File > Import.
   
+  
   . Selecione Existing Projects into Workspace e clique em Next.
 
   
@@ -45,8 +46,7 @@ Siga os passos para baixar, importar e executar o projeto:
 
   4. Compile e execute o Projeto:
      
-
-     - Na classe  'SistemaEmpregados' execute como uma aplicação Java.
+  -  Na classe  'SistemaEmpregados' execute como uma aplicação Java.
     
 
  ## Estrutura do Projeto 
